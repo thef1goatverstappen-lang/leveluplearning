@@ -1,0 +1,6 @@
+{
+  "name": "Level Up Learning",
+  "description": "A gamified student planner for Grade 9 and 10 students combining task management, Pomodoro focus zones, calendar views, study analytics, streaks, XP leveling, and achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
